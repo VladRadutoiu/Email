@@ -1,0 +1,5 @@
+Mailul este trimis prin SMTP folosind protocolul SSL pentru criptare.
+Pagina web este deschisa cu request si formatata cu BeautifulSoup.
+Email.mime este folosit pentru formatarea mailului in format html sau text in
+functie de client.
+Pentru trimitere o data pe minut timp de 5 minute am folosit sleep si un for.
